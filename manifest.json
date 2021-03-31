@@ -4,7 +4,7 @@
 	"short_name": "Notes",
 	"description": "Sticky Notes | Share and store notes at your tips",
 	"orientation": "portrait",
-	"start_url": "/",
+	"start_url": "/index.html",
 	"scope": "/",
 	"display": "standalone",
 	"background_color": "grey",
