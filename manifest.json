@@ -1,7 +1,7 @@
 {
 	"author": "Sourabh Mishra",
 	"name": "Sticky Notes",
-	"short_name": "SuperCoders",
+	"short_name": "Notes",
 	"description": "Sticky Notes | Share and store notes at your tips",
 	"orientation": "portrait",
 	"start_url": "/",
