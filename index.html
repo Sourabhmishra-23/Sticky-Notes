@@ -62,6 +62,29 @@
 	</footer>
 	
 	<!--Scripts-->
+	<!-- Repixel Code -->
+<script>
+  (function(w, d, s, id, src){
+  w.Repixel = r = {
+    init: function(id) {
+      w.repixelId = id;
+    }
+  };
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)){ return; }
+  js = d.createElement(s); 
+  js.id = id;
+  js.async = true;
+  js.onload = function(){
+      Repixel.init(w.repixelId);
+  };
+  js.src = src;
+  fjs.parentNode.insertBefore(js, fjs);
+  }(window, document, 'script', 'repixel', 
+  'https://sdk.repixel.co/r.js'));
+  Repixel.init('6084ee0aafa0900009cac571');
+</script>
+<!-- Repixel Code -->
 	<script src="js/httpVueLoader.js" charset="utf-8"></script>
 	<script src="js/vue.min.js" charset="utf-8"></script>
 	<script src="js/stickyNotes.js" charset="utf-8"></script>
