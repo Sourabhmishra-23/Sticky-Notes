@@ -44,16 +44,3 @@
     });    
 
 })();
-
-	Swal.fire({
-  title: 'Custom width, padding, background.',
-  width: 600,
-  padding: '3em',
-  background: '#fff url(/images/trees.png)',
-  backdrop: `
-    rgba(0,0,123,0.4)
-    url("https://tenor.com/view/kevin-the-office-giggle-laughing-cute-gif-4986298")
-    left top
-    no-repeat
-  `
-})
