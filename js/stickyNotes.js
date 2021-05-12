@@ -44,4 +44,4 @@
     });    
 
 })();
-Swal.fire('We are in Beta Stage! kindly share your feedback with us')
+Swal.fire('We are in Beta Stage kindly share your feedback with us')
