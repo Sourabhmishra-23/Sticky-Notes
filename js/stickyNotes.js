@@ -52,7 +52,7 @@
   background: '#fff url(/images/trees.png)',
   backdrop: `
     rgba(0,0,123,0.4)
-    url("/images/nyan-cat.gif")
+    url("https://tenor.com/view/kevin-the-office-giggle-laughing-cute-gif-4986298")
     left top
     no-repeat
   `
